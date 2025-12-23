@@ -103,6 +103,8 @@
 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/>
 
+<img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=flat-square&logo=tailwind-css&logoColor=38B2AC" />
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"/>
 
 <img src="https://img.shields.io/badge/axios.js-854195?style=flat-square&logo=axios&logoColor=5A29E4" />
@@ -118,6 +120,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 </div>
+
 
 ### Frontend
 
@@ -213,4 +216,5 @@
     <img src="https://uosmaiisnppqgxbcbawc.supabase.co/storage/v1/object/public/images/image%205.jpg" alt="릿치 시연 영상" width="560"/>
   </a>
 </div>
+
 
